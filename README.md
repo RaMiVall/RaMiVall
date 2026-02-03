@@ -25,7 +25,7 @@
    <h3> 🤝🏻 Connect with me </h3>
   <a href="mailto:hi@contrerasramiro2015@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/racontrras/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ramiro-contreras-66533234a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https:www.linkedin.com/in/ramirovalcontreras"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <br>
